@@ -1,0 +1,18 @@
+#top{
+    border: 5px solid black;
+    width: 25px;
+    height: 25px;
+}
+
+#leg1{
+    margin-left: 30px;
+    background-color: black;
+    width: 5px;
+    height: 25px;
+}
+
+#leg2{
+    background-color: black;
+    width: 35px;
+    height: 5px;
+}
